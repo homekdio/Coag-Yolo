@@ -1,3 +1,3 @@
-After installing the environment, just run train.py
-
-The key code is in the “Improved” folder and the commmon.py and yolo.py files in the “models” folder.
+1.This code is based on YOLOv7 improved, please refer to the official link of yolov7 for specific usage: https://github.com/WongKinYiu/yolov7
+2. The four improved modules of this code are in -> “Improved” folder.
+3. The file of the improved network structure of this code is in directory ->cfg->training->CARAFE+CoT+Slim+IOU-t.yaml
